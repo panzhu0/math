@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/code/math/2/media/videos/2/1080p60/partial_movie_files/A/3977891868_891231028_223132457.mp4'
+file 'file:D:/code/math/2/media/videos/2/1080p60/partial_movie_files/A/2852726489_1754310298_628104485.mp4'
+file 'file:D:/code/math/2/media/videos/2/1080p60/partial_movie_files/A/2852726489_2681976530_995591528.mp4'
+file 'file:D:/code/math/2/media/videos/2/1080p60/partial_movie_files/A/2852726489_1754310298_434738358.mp4'
+file 'file:D:/code/math/2/media/videos/2/1080p60/partial_movie_files/A/2852726489_268690005_1559197121.mp4'
+file 'file:D:/code/math/2/media/videos/2/1080p60/partial_movie_files/A/2852726489_1754310298_3278671325.mp4'
