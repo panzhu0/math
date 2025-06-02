@@ -80,7 +80,7 @@ $$
 $$
 (x + \Delta x)^n = (x+\Delta x) (x+\Delta x) (x+\Delta x) .. \\ 
 = x^n + n x^{n-1}x + ... \\
-= x^n + n x^{n-1}x + Junk \\ 
+= x^n + n x^{n-1}x + Junk \\
 $$
 
 $$
